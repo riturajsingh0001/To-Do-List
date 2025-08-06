@@ -25,8 +25,7 @@ JavaScript (ES6+): Core logic, DOM manipulation, and interactive features.
 
 Live Demo
 
-todolist-beta-lilac-54.vercel.app
-
+https://todolist-beta-lilac-54.vercel.app
 
 💡 How to Use
 
