@@ -26,18 +26,3 @@ JavaScript (ES6+): Core logic, DOM manipulation, and interactive features.
 Live Demo
 
 https://todolist-beta-lilac-54.vercel.app
-
-💡 How to Use
-
-
-Local Installation
-
-Clone the repository:
-
-git clone <repository-url>
-
-Navigate to the project directory:
-
-cd <project-directory>
-
-Open index.html: Simply open the index.html file in your preferred web browser to run the application locally.
